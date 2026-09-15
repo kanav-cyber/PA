@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/kanav-cyber/PA/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/kanav-cyber/PA/tree/main/0054-spiral-matrix/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,4 +36,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kanav-cyber/PA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/kanav-cyber/PA/tree/main/0054-spiral-matrix/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/kanav-cyber/PA/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
