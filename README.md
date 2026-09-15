@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kanav-cyber/PA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kanav-cyber/PA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/kanav-cyber/PA/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/kanav-cyber/PA/tree/main/0054-spiral-matrix/) | Medium |
 | [0118-pascals-triangle](https://github.com/kanav-cyber/PA/tree/main/0118-pascals-triangle/) | Easy |
@@ -59,4 +60,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kanav-cyber/PA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kanav-cyber/PA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
