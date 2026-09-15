@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/kanav-cyber/PA/tree/main/0002-add-two-numbers/) | Medium |
+| [0989-add-to-array-form-of-integer](https://github.com/kanav-cyber/PA/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/kanav-cyber/PA/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/kanav-cyber/PA/tree/main/0054-spiral-matrix/) | Medium |
+| [0989-add-to-array-form-of-integer](https://github.com/kanav-cyber/PA/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
