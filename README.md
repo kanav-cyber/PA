@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/kanav-cyber/PA/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kanav-cyber/PA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/kanav-cyber/PA/tree/main/0118-pascals-triangle/) | Easy |
+| [0198-house-robber](https://github.com/kanav-cyber/PA/tree/main/0198-house-robber/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/kanav-cyber/PA/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [2418-sort-the-people](https://github.com/kanav-cyber/PA/tree/main/2418-sort-the-people/) | Easy |
 ## Divide and Conquer
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/kanav-cyber/PA/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/kanav-cyber/PA/tree/main/0118-pascals-triangle/) | Easy |
+| [0198-house-robber](https://github.com/kanav-cyber/PA/tree/main/0198-house-robber/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
