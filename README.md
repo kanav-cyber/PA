@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/kanav-cyber/PA/tree/main/0002-add-two-numbers/) | Medium |
 | [0202-happy-number](https://github.com/kanav-cyber/PA/tree/main/0202-happy-number/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/kanav-cyber/PA/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/kanav-cyber/PA/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
