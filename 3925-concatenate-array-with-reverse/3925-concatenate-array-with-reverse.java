@@ -1,16 +1,15 @@
 class Solution {
+
     public int[] concatWithReverse(int[] nums) {
-        int k = nums.length;
-        int check = k + k;
-        int[] num2 = new int[check];
-        for(int i=0;i<nums.length;i++){
-            num2[i] = nums[i];
+
+        int n = nums.length;
+        int[] ans = new int[2 * n];
+
+        for (int i = 0; i < n; i++) {
+            ans[i] = nums[i];
+            ans[i + n] = nums[n - i - 1];
         }
-        int it = k - 1;
-        for(int i = k;i<num2.length;i++){
-            num2[i] = nums[it];
-            it--;
-        }
-        return num2;
+
+        return ans;
     }
 }
