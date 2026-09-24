@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0989-add-to-array-form-of-integer](https://github.com/kanav-cyber/PA/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/kanav-cyber/PA/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/kanav-cyber/PA/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kanav-cyber/PA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-transpose-matrix](https://github.com/kanav-cyber/PA/tree/main/0867-transpose-matrix/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/kanav-cyber/PA/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [2418-sort-the-people](https://github.com/kanav-cyber/PA/tree/main/2418-sort-the-people/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kanav-cyber/PA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/kanav-cyber/PA/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
