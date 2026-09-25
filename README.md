@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/kanav-cyber/PA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/kanav-cyber/PA/tree/main/0118-pascals-triangle/) | Easy |
 | [0198-house-robber](https://github.com/kanav-cyber/PA/tree/main/0198-house-robber/) | Medium |
+| [0455-assign-cookies](https://github.com/kanav-cyber/PA/tree/main/0455-assign-cookies/) | Easy |
 | [0867-transpose-matrix](https://github.com/kanav-cyber/PA/tree/main/0867-transpose-matrix/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/kanav-cyber/PA/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [2418-sort-the-people](https://github.com/kanav-cyber/PA/tree/main/2418-sort-the-people/) | Easy |
@@ -94,16 +95,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/kanav-cyber/PA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kanav-cyber/PA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0202-happy-number](https://github.com/kanav-cyber/PA/tree/main/0202-happy-number/) | Easy |
+| [0455-assign-cookies](https://github.com/kanav-cyber/PA/tree/main/0455-assign-cookies/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/kanav-cyber/PA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kanav-cyber/PA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0455-assign-cookies](https://github.com/kanav-cyber/PA/tree/main/0455-assign-cookies/) | Easy |
 | [2418-sort-the-people](https://github.com/kanav-cyber/PA/tree/main/2418-sort-the-people/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/kanav-cyber/PA/tree/main/0075-sort-colors/) | Medium |
+| [0455-assign-cookies](https://github.com/kanav-cyber/PA/tree/main/0455-assign-cookies/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,4 +132,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2413-smallest-even-multiple](https://github.com/kanav-cyber/PA/tree/main/2413-smallest-even-multiple/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/kanav-cyber/PA/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
