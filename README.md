@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/kanav-cyber/PA/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/kanav-cyber/PA/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/kanav-cyber/PA/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/kanav-cyber/PA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/kanav-cyber/PA/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/kanav-cyber/PA/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kanav-cyber/PA/tree/main/0088-merge-sorted-array/) | Easy |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/kanav-cyber/PA/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/kanav-cyber/PA/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/kanav-cyber/PA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/kanav-cyber/PA/tree/main/0867-transpose-matrix/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/kanav-cyber/PA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kanav-cyber/PA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/kanav-cyber/PA/tree/main/0035-search-insert-position/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/kanav-cyber/PA/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
