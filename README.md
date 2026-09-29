@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kanav-cyber/PA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kanav-cyber/PA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/kanav-cyber/PA/tree/main/0162-find-peak-element/) | Medium |
+| [0179-largest-number](https://github.com/kanav-cyber/PA/tree/main/0179-largest-number/) | Medium |
 | [0198-house-robber](https://github.com/kanav-cyber/PA/tree/main/0198-house-robber/) | Medium |
 | [0455-assign-cookies](https://github.com/kanav-cyber/PA/tree/main/0455-assign-cookies/) | Easy |
 | [0867-transpose-matrix](https://github.com/kanav-cyber/PA/tree/main/0867-transpose-matrix/) | Easy |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanav-cyber/PA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/kanav-cyber/PA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0179-largest-number](https://github.com/kanav-cyber/PA/tree/main/0179-largest-number/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kanav-cyber/PA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2418-sort-the-people](https://github.com/kanav-cyber/PA/tree/main/2418-sort-the-people/) | Easy |
 ## Sliding Window
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/kanav-cyber/PA/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/kanav-cyber/PA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kanav-cyber/PA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0179-largest-number](https://github.com/kanav-cyber/PA/tree/main/0179-largest-number/) | Medium |
 | [0455-assign-cookies](https://github.com/kanav-cyber/PA/tree/main/0455-assign-cookies/) | Easy |
 | [2418-sort-the-people](https://github.com/kanav-cyber/PA/tree/main/2418-sort-the-people/) | Easy |
 ## Quicksort
@@ -148,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/kanav-cyber/PA/tree/main/0179-largest-number/) | Medium |
 | [0455-assign-cookies](https://github.com/kanav-cyber/PA/tree/main/0455-assign-cookies/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
