@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanav-cyber/PA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/kanav-cyber/PA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0020-valid-parentheses](https://github.com/kanav-cyber/PA/tree/main/0020-valid-parentheses/) | Easy |
 | [0179-largest-number](https://github.com/kanav-cyber/PA/tree/main/0179-largest-number/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kanav-cyber/PA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2418-sort-the-people](https://github.com/kanav-cyber/PA/tree/main/2418-sort-the-people/) | Easy |
@@ -156,9 +157,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/kanav-cyber/PA/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/kanav-cyber/PA/tree/main/0155-min-stack/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/kanav-cyber/PA/tree/main/0155-min-stack/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/kanav-cyber/PA/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
