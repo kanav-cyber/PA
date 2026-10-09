@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/kanav-cyber/PA/tree/main/0179-largest-number/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kanav-cyber/PA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kanav-cyber/PA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kanav-cyber/PA/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2418-sort-the-people](https://github.com/kanav-cyber/PA/tree/main/2418-sort-the-people/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/kanav-cyber/PA/tree/main/0179-largest-number/) | Medium |
 | [0455-assign-cookies](https://github.com/kanav-cyber/PA/tree/main/0455-assign-cookies/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kanav-cyber/PA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kanav-cyber/PA/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/kanav-cyber/PA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0155-min-stack](https://github.com/kanav-cyber/PA/tree/main/0155-min-stack/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kanav-cyber/PA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kanav-cyber/PA/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,4 +182,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/kanav-cyber/PA/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/kanav-cyber/PA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kanav-cyber/PA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kanav-cyber/PA/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 <!---LeetCode Topics End-->
