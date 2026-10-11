@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-transpose-matrix](https://github.com/kanav-cyber/PA/tree/main/0867-transpose-matrix/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/kanav-cyber/PA/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [2418-sort-the-people](https://github.com/kanav-cyber/PA/tree/main/2418-sort-the-people/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kanav-cyber/PA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kanav-cyber/PA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/kanav-cyber/PA/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Divide and Conquer
@@ -183,4 +184,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/kanav-cyber/PA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kanav-cyber/PA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kanav-cyber/PA/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kanav-cyber/PA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
