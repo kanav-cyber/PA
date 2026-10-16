@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/kanav-cyber/PA/tree/main/0002-add-two-numbers/) | Medium |
+| [0009-palindrome-number](https://github.com/kanav-cyber/PA/tree/main/0009-palindrome-number/) | Easy |
 | [0202-happy-number](https://github.com/kanav-cyber/PA/tree/main/0202-happy-number/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/kanav-cyber/PA/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/kanav-cyber/PA/tree/main/2413-smallest-even-multiple/) | Easy |
