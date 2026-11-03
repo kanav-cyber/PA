@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2413-smallest-even-multiple](https://github.com/kanav-cyber/PA/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/kanav-cyber/PA/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kanav-cyber/PA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kanav-cyber/PA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2418-sort-the-people](https://github.com/kanav-cyber/PA/tree/main/2418-sort-the-people/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kanav-cyber/PA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kanav-cyber/PA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kanav-cyber/PA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/kanav-cyber/PA/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
