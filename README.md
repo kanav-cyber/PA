@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/kanav-cyber/PA/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/kanav-cyber/PA/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kanav-cyber/PA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0090-subsets-ii](https://github.com/kanav-cyber/PA/tree/main/0090-subsets-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/kanav-cyber/PA/tree/main/0118-pascals-triangle/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kanav-cyber/PA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kanav-cyber/PA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -151,10 +152,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/kanav-cyber/PA/tree/main/0022-generate-parentheses/) | Medium |
 | [0078-subsets](https://github.com/kanav-cyber/PA/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/kanav-cyber/PA/tree/main/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/kanav-cyber/PA/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/kanav-cyber/PA/tree/main/0090-subsets-ii/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
