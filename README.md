@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/kanav-cyber/PA/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/kanav-cyber/PA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0179-largest-number](https://github.com/kanav-cyber/PA/tree/main/0179-largest-number/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/kanav-cyber/PA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kanav-cyber/PA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kanav-cyber/PA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kanav-cyber/PA/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanav-cyber/PA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/kanav-cyber/PA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/kanav-cyber/PA/tree/main/0202-happy-number/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/kanav-cyber/PA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2418-sort-the-people](https://github.com/kanav-cyber/PA/tree/main/2418-sort-the-people/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/kanav-cyber/PA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kanav-cyber/PA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0179-largest-number](https://github.com/kanav-cyber/PA/tree/main/0179-largest-number/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/kanav-cyber/PA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/kanav-cyber/PA/tree/main/0455-assign-cookies/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kanav-cyber/PA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2418-sort-the-people](https://github.com/kanav-cyber/PA/tree/main/2418-sort-the-people/) | Easy |
@@ -213,4 +216,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/kanav-cyber/PA/tree/main/0503-next-greater-element-ii/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/kanav-cyber/PA/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/kanav-cyber/PA/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/kanav-cyber/PA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
