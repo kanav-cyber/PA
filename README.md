@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kanav-cyber/PA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kanav-cyber/PA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kanav-cyber/PA/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/kanav-cyber/PA/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2418-sort-the-people](https://github.com/kanav-cyber/PA/tree/main/2418-sort-the-people/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
