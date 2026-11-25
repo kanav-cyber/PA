@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/kanav-cyber/PA/tree/main/0179-largest-number/) | Medium |
 | [0198-house-robber](https://github.com/kanav-cyber/PA/tree/main/0198-house-robber/) | Medium |
 | [0455-assign-cookies](https://github.com/kanav-cyber/PA/tree/main/0455-assign-cookies/) | Easy |
+| [0496-next-greater-element-i](https://github.com/kanav-cyber/PA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/kanav-cyber/PA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/kanav-cyber/PA/tree/main/0682-baseball-game/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/kanav-cyber/PA/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/kanav-cyber/PA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/kanav-cyber/PA/tree/main/0202-happy-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/kanav-cyber/PA/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0496-next-greater-element-i](https://github.com/kanav-cyber/PA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/kanav-cyber/PA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [2418-sort-the-people](https://github.com/kanav-cyber/PA/tree/main/2418-sort-the-people/) | Easy |
 ## Binary Search
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/kanav-cyber/PA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/kanav-cyber/PA/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/kanav-cyber/PA/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0496-next-greater-element-i](https://github.com/kanav-cyber/PA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/kanav-cyber/PA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/kanav-cyber/PA/tree/main/0682-baseball-game/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kanav-cyber/PA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -227,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/kanav-cyber/PA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/kanav-cyber/PA/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
