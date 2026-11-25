@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/kanav-cyber/PA/tree/main/0179-largest-number/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/kanav-cyber/PA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/kanav-cyber/PA/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0844-backspace-string-compare](https://github.com/kanav-cyber/PA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kanav-cyber/PA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kanav-cyber/PA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kanav-cyber/PA/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/kanav-cyber/PA/tree/main/0054-spiral-matrix/) | Medium |
 | [0682-baseball-game](https://github.com/kanav-cyber/PA/tree/main/0682-baseball-game/) | Easy |
+| [0844-backspace-string-compare](https://github.com/kanav-cyber/PA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0867-transpose-matrix](https://github.com/kanav-cyber/PA/tree/main/0867-transpose-matrix/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/kanav-cyber/PA/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/kanav-cyber/PA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/kanav-cyber/PA/tree/main/0202-happy-number/) | Easy |
 | [0455-assign-cookies](https://github.com/kanav-cyber/PA/tree/main/0455-assign-cookies/) | Easy |
+| [0844-backspace-string-compare](https://github.com/kanav-cyber/PA/tree/main/0844-backspace-string-compare/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kanav-cyber/PA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -204,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/kanav-cyber/PA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/kanav-cyber/PA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/kanav-cyber/PA/tree/main/0682-baseball-game/) | Easy |
+| [0844-backspace-string-compare](https://github.com/kanav-cyber/PA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kanav-cyber/PA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kanav-cyber/PA/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Design
