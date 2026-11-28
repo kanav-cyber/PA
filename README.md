@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/kanav-cyber/PA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0735-asteroid-collision](https://github.com/kanav-cyber/PA/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/kanav-cyber/PA/tree/main/0739-daily-temperatures/) | Medium |
+| [0826-most-profit-assigning-work](https://github.com/kanav-cyber/PA/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0867-transpose-matrix](https://github.com/kanav-cyber/PA/tree/main/0867-transpose-matrix/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/kanav-cyber/PA/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kanav-cyber/PA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kanav-cyber/PA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kanav-cyber/PA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/kanav-cyber/PA/tree/main/0162-find-peak-element/) | Medium |
+| [0826-most-profit-assigning-work](https://github.com/kanav-cyber/PA/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kanav-cyber/PA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/kanav-cyber/PA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/kanav-cyber/PA/tree/main/0202-happy-number/) | Easy |
 | [0455-assign-cookies](https://github.com/kanav-cyber/PA/tree/main/0455-assign-cookies/) | Easy |
+| [0826-most-profit-assigning-work](https://github.com/kanav-cyber/PA/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0844-backspace-string-compare](https://github.com/kanav-cyber/PA/tree/main/0844-backspace-string-compare/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kanav-cyber/PA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Sorting
@@ -158,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/kanav-cyber/PA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/kanav-cyber/PA/tree/main/0455-assign-cookies/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/kanav-cyber/PA/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0826-most-profit-assigning-work](https://github.com/kanav-cyber/PA/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kanav-cyber/PA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2418-sort-the-people](https://github.com/kanav-cyber/PA/tree/main/2418-sort-the-people/) | Easy |
 ## Quicksort
@@ -198,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0179-largest-number](https://github.com/kanav-cyber/PA/tree/main/0179-largest-number/) | Medium |
 | [0455-assign-cookies](https://github.com/kanav-cyber/PA/tree/main/0455-assign-cookies/) | Easy |
+| [0826-most-profit-assigning-work](https://github.com/kanav-cyber/PA/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kanav-cyber/PA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kanav-cyber/PA/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Stack
